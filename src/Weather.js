@@ -63,7 +63,7 @@ export default function Weather() {
                 </div>
               </div>
               <small>
-                <a href="https://github.com/nolans42/Vanilla-App-Weather">
+                <a href="https://github.com/nolans42/weather-react">
                   Open-source code
                 </a>
                 by Sarah Nolan
