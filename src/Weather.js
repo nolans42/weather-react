@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 import "./search.css";
 
 export default function Weather() {
