@@ -28,6 +28,8 @@ export default function Weather() {
                         className="form-control"
                         autoComplete="off"
                       />
+                    </div>
+                    <div className="col-3">
                       <input
                         type="submit"
                         value="Search"
