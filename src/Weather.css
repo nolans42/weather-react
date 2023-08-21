@@ -13,13 +13,7 @@
 .App .weather-app-wrapper {
   max-width: 800px;
   margin: 30px auto;
-  display: flex;
-  justify-content: flex-start;
   align-items: center;
-}
-
-.weather-app-wrapper input {
-  margin-right: 10px;
 }
 .App h1 {
   color: #878787;

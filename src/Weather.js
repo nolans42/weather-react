@@ -21,11 +21,11 @@ export default function Weather() {
               <div className="Weather">
                 <form className="mb-3">
                   <div className="row">
-                    <div className="col-9">
+                    <div className="col-9 d-flex">
                       <input
                         type="search"
                         placeholder="Type a city.."
-                        className="form-control"
+                        className="form-control me-2"
                         autoComplete="off"
                       />
                       <input
