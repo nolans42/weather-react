@@ -22,19 +22,19 @@ export default function Weather() {
                 <form className="mb-3">
                   <div className="row">
                     <div className="col-9">
+                        <div className="input-container">
                       <input
                         type="search"
                         placeholder="Type a city.."
                         className="form-control"
                         autoComplete="off"
                       />
-                    </div>
-                    <div className="col-3">
                       <input
                         type="submit"
                         value="Search"
                         className="btn btn-primary W-80"
                       />
+                      </div>
                     </div>
                   </div>
                 </form>

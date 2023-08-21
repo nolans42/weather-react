@@ -15,6 +15,13 @@
   margin: 30px auto;
 }
 
+.input-container {
+  display: flex;
+}
+
+.input-container input {
+  margin-right: 10px;
+}
 .App h1 {
   color: #878787;
   font-size: 24px;
