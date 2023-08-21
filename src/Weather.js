@@ -26,12 +26,12 @@ export default function Weather() {
                         type="search"
                         placeholder="Type a city.."
                         className="form-control me-2"
-                        autoComplete="off"
+                        autoComplete="on"
                       />
                       <input
                         type="submit"
                         value="Search"
-                        className="btn btn-primary W-80"
+                        className="btn btn-primary W-100"
                       />
                     </div>
                   </div>
@@ -62,12 +62,6 @@ export default function Weather() {
                   </ul>
                 </div>
               </div>
-              <small>
-                <a href="https://github.com/nolans42/weather-react">
-                  Open-source code
-                </a>
-                by Sarah Nolan
-              </small>
             </div>
           </div>
         </div>
