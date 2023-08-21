@@ -22,7 +22,6 @@ export default function Weather() {
                 <form className="mb-3">
                   <div className="row">
                     <div className="col-9">
-                        <div className="input-container">
                       <input
                         type="search"
                         placeholder="Type a city.."
@@ -34,7 +33,6 @@ export default function Weather() {
                         value="Search"
                         className="btn btn-primary W-80"
                       />
-                      </div>
                     </div>
                   </div>
                 </form>

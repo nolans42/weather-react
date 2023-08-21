@@ -13,13 +13,12 @@
 .App .weather-app-wrapper {
   max-width: 800px;
   margin: 30px auto;
-}
-
-.input-container {
   display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 
-.input-container input {
+.weather-app-wrapper input {
   margin-right: 10px;
 }
 .App h1 {
