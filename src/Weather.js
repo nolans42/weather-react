@@ -1,5 +1,5 @@
 import React from "react";
-import "./search.css";
+import "./Weather.css";
 
 export default function Weather() {
   let appData = {
