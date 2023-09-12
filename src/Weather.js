@@ -1,4 +1,5 @@
 import React from "react";
+import axios from "axios";
 import "./Weather.css";
 
 export default function Weather() {
@@ -51,7 +52,7 @@ export default function Weather() {
                       id="icon"
                     />
                     <strong>{appData.temperature}</strong>
-                    <span className="units">ºC| ºF</span>
+                    <span className="units">ºC | ºF</span>
                   </div>
                 </div>
                 <div className="col-6">
