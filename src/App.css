@@ -1,8 +1,11 @@
 .code {
   max-width: 600px;
   margin: 20 auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 .code footer{
   font-size: 11px;
-  margin: 10px 0;
+  margin: 10px 15px;
 }
